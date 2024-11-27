@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Super immune individual of rust disease
+
 <!--
 **colzlor/colzlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
